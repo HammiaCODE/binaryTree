@@ -1,0 +1,7 @@
+# ninja log v6
+20	441	7501360688911528	CMakeFiles/ArbolBinario.dir/BinaryTree.cpp.obj	e8398da00defea9f
+11	443	7501360688821437	CMakeFiles/ArbolBinario.dir/main.cpp.obj	aa67a78eedd5c8d0
+443	563	7501360693137592	ArbolBinario.exe	3059d64f39412778
+27	564	7507073876064095	CMakeFiles/ArbolBinario.dir/BinaryTree.cpp.obj	e8398da00defea9f
+9	566	7507073875888385	CMakeFiles/ArbolBinario.dir/main.cpp.obj	aa67a78eedd5c8d0
+566	808	7507073881451471	ArbolBinario.exe	3059d64f39412778
